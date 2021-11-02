@@ -2,7 +2,7 @@
 
 PowerShell program to locally test software updates when the software runs in Windows Task Scheduler. I made this for a group with different security and permissions requirements.
 
-This script was created to workaround Windows servers with PowerShell Remoting disabled.
+- This script was created to workaround Windows servers with PowerShell Remoting disabled.
 
 ## Step 1 - Run the program
 
